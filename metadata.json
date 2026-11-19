@@ -1,0 +1,6 @@
+{
+  "name": "JawabDe AI — Pan-India Contractor Warranty Audit & RTI Agent",
+  "description": "Pan-India civic-tech platform for auditing municipal contractor Defect Liability Period warranties, mapping verified community grievances, generating Section 6(1) RTI Act 2005 applications, and verifying Before-vs-After repair closures.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
